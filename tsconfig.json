@@ -1,0 +1,7 @@
+
+{
+  "compilerOptions": {
+    // Your compiler options here
+  },
+  "extends": "./.nuxt/tsconfig.json"
+}
